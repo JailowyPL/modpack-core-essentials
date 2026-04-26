@@ -1,0 +1,11 @@
+{
+  "windowTitle": "Minecraft \u2014 MoonPlay Modpack",
+  "useCustomIcon": false,
+  "iconPath": "config/icon.png",
+  "welcomeMessage": [
+    "\u00a76\u2726 Welcome to MoonPlay Modpack! \u2726",
+    "\u00a77Enjoy your adventure and have fun.",
+    "\u00a78(This message shows only once per launch)"
+  ],
+  "showWelcomeOnStartup": true
+}
